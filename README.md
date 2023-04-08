@@ -1,4 +1,4 @@
-# animated_app_with_flutter_and_rive
+# Animated App with Flutter and Rive
 
 A new Flutter project.
 
